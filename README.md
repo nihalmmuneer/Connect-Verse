@@ -109,8 +109,8 @@ Navigate through the platform to explore various features such as creating posts
 ## Pages and Components
   - Pages:
      - Home ![Sign-In HomePage](https://github.com/nihalmmuneer/connect-verse/assets/83130635/61afc65f-f6b4-41ec-85a6-4824739a3eec)
-     - SignUp ![SignUp](https://github.com/nihalmmuneer/connect-verse/assets/83130635/eff66b70-ce90-4b64-87fd-1e9edaf295fe)
-     - SignIn ![SignIN](https://github.com/nihalmmuneer/connect-verse/assets/83130635/b2af3f40-3b65-4191-a78a-088427a662ad)
+     - SignUp ![image](https://github.com/nihalmmuneer/connect-verse/assets/83130635/0737cfc0-da7a-4c73-b36d-f148cdb1ce09)
+     - SignIn ![image](https://github.com/nihalmmuneer/connect-verse/assets/83130635/52f442f7-08ae-40f1-b8c4-196dc3dcaad6)
      - About
      - Dashboard 
      - CreatePost ![CreatePost](https://github.com/nihalmmuneer/connect-verse/assets/83130635/2f25f2c0-3ec0-45dd-bd97-35a209cd21b6)
@@ -124,9 +124,10 @@ Navigate through the platform to explore various features such as creating posts
       - Footer
       - DashSidebar ![Dashboard](https://github.com/nihalmmuneer/connect-verse/assets/83130635/48a1acee-5c0f-4305-bdfe-b6194d85a629)
       - DashPosts  ![image](https://github.com/nihalmmuneer/connect-verse/assets/83130635/ea01b0a3-0b72-42ce-be7b-7e6824ee9b5c)
-      - DashProfile- ![Profile-Update](https://github.com/nihalmmuneer/connect-verse/assets/83130635/d38953d5-1453-4a18-9c0f-7c80399b3123)
-      - DashUsers ![UsersList](https://github.com/nihalmmuneer/connect-verse/assets/83130635/3132d38c-aad1-4845-9f02-778de934399e)
-      - PostCard
+      - DashProfile- ![image](https://github.com/nihalmmuneer/connect-verse/assets/83130635/c6056e2e-6456-48ea-b939-207281205f3a)
+      - DashUsers ![image](https://github.com/nihalmmuneer/connect-verse/assets/83130635/b13254a7-08e7-45cc-8d1b-c6c00795eb49)
+      - PostCard ![image](https://github.com/nihalmmuneer/connect-verse/assets/83130635/056f4b10-0a1b-45ac-bf51-3cb1c9291bf0)
+
 ## State Management
 State management is handled using Redux Toolkit and Redux Persist for maintaining state across sessions.
 
