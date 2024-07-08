@@ -87,17 +87,16 @@ Navigate through the platform to explore various features such as creating posts
 
 ## API Routes
 - User Routes:
-  - POST /api/auth/signup
-  - POST /api/auth/signin
-  - GET /api/user
-  - PUT /api/user/
-  - DELETE /api/user/
-
+  - POST /api/auth/sign-up - ![image](https://github.com/nihalmmuneer/connect-verse/assets/83130635/874389d8-b217-432b-a82f-54ea8f08210b)
+  - POST /api/auth/sign-in - ![image](https://github.com/nihalmmuneer/connect-verse/assets/83130635/60080881-177b-4ddc-ba9b-542e92e09f26)
+  - GET /api/user/get-users - ![image](https://github.com/nihalmmuneer/connect-verse/assets/83130635/d5cd698b-e66e-4d20-acf8-fa399dd1a8e1)
+  - PUT /api/user/user-update/:user_id - ![image](https://github.com/nihalmmuneer/connect-verse/assets/83130635/8c0d69a5-d1a6-4be2-b17f-cbcd73bb05ad)
+  - DELETE /api/user/delete/:user_id - ![image](https://github.com/nihalmmuneer/connect-verse/assets/83130635/d02fce25-f336-4b5d-8527-ced223b8cef8)
 - Post Routes:
-   - GET /api/post
-   - POST /api/post
-   - PUT /api/post/
-   - DELETE /api/post/
+   - GET /api/post/get-posts - ![image](https://github.com/nihalmmuneer/connect-verse/assets/83130635/eaee3746-620f-4db0-9f73-36be47e0b94f)
+   - POST /api/post/create - ![image](https://github.com/nihalmmuneer/connect-verse/assets/83130635/3100c2df-6849-4f27-a4b8-50d7f0ea620f)
+   - PUT /api/post/update-posts/:postId/:userId - ![image](https://github.com/nihalmmuneer/connect-verse/assets/83130635/b3e484b3-5276-4912-8ff4-49207d1823d5)
+   - DELETE /api/post/delete-post/:postId/:userId - ![image](https://github.com/nihalmmuneer/connect-verse/assets/83130635/22021fc0-b96a-477f-b177-5bb23a0a3765)
  
 ## CRUD Operations
   ConnectVerse supports the full range of CRUD (Create, Read, Update, Delete) operations:
@@ -132,6 +131,6 @@ Navigate through the platform to explore various features such as creating posts
 State management is handled using Redux Toolkit and Redux Persist for maintaining state across sessions.
 
 ## Deployment
-This application is deployed on Vercel. You can access the live version [here](https://connect-verse-xchk.onrender.com)
+This application is deployed on Render. You can access the live version [here](https://connect-verse-xchk.onrender.com)
 - Github repository [click here](https://github.com/nihalmmuneer/connect-verse)
 - Deployment has been done in [Render](https://render.com/)
